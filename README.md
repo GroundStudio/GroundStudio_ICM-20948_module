@@ -31,3 +31,10 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000015.html)   
+   
+[![certification-mark-RO000015-wide](https://github.com/GroundStudio/GroundStudio_ICM-20948_module/assets/77836107/5a186684-77ac-4cc2-98ff-1df3fa1cb3c3)
+](https://certification.oshwa.org/ro000015.html)
